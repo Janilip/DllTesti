@@ -14,6 +14,7 @@ namespace ClientTest
     {
         static void Main(string[] args)
         {
+            // testataan muutoksia versionhallinnassa
             int port = 8221;
             TcpClient client = new TcpClient("localhost", port);
 

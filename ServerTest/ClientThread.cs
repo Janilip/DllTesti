@@ -80,5 +80,6 @@ namespace ServerTest
             // suljetaan yhteydet
             socketHelper.Close();
         }
+        // tännekin uusi kommentti
     }
 }
