@@ -12,6 +12,10 @@ namespace ServerTest
 {
     class Program
     {
+        /// <summary>
+        /// Tämä tekee jotain
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             IPAddress address = IPAddress.Parse("127.0.0.1");
